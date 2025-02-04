@@ -22,6 +22,9 @@ int main(){
     long long int l = 9100100100100100100; // 8 bytes (-9 quintillion to 9 quintillion) %lld
     unsigned long long int m = 18100100100100100100U; // 8 B (0 to 18 quintillion)      %llu 
 
+    //constants!!
+    const float PI = 3.14;
+
     printf("%0.12f\n", c);  //float inaccuracies are observable
     printf("%0.12lf\n", d);
 
@@ -32,6 +35,8 @@ int main(){
 
     printf("%lld\n", l);
     printf("%llu\n", m);
+
+    printf("%.2f\n", PI);
 
     return 0;
 }
