@@ -1,18 +1,18 @@
-global _start
+.globl _start
 
-section .text
+.section .text
 
 _start:
-    MOV rax, 0x1
-    MOV rdi, 0x1
-    MOV rsi, msg
-    MOV rdx, msglength
+    mov rax, 0x1
+    mov rdi, 0x1
+    mov rsi, msg
+    mov rdx, msglength
     SYSCALL
 
-    MOV rax, 0x3C
-    MOV rdx, 0x0
+    mov rax, 0x3C
+    mov rdx, 0x0
     SYSCALL
 
 section .data
-    msg: DB "Hello world" 0xA
-    msglength: EQU $ - msg;
+    msg: db "Hello world" 0xA
+    msglength: equ $ - msg;
