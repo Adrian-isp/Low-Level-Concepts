@@ -7,7 +7,8 @@ int main(){
         | - OR
         ^ - XOR
         >> - right shift
-        << - left shift     
+        << - left shift
+        ~ - complement
     */
     int x = 6;  // 6 = 00000110 06
     int y = 12; //12 = 00001100 0c
@@ -26,10 +27,13 @@ int main(){
 
     //add bitshifts 
     z = x << 1;      //00001100
-    printf("bitshift left x = %d\n", z);
+    printf("bitshift left  x = %d\n", z);
 
     z = x >> 1;      //00000011
-    printf("bitshift right x = %d", z);
+    printf("bitshift right x = %d\n", z);
+
+    z = ~x;     //-7 = 11111001
+    printf("complement of  x = %d\n", z);
 
     return 0;
 }
