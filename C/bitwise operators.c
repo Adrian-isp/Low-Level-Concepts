@@ -15,21 +15,21 @@ int main(){
 
     printf("z0  = %d\n", z);
 
-    z = x & y;
+    z = x & y;       //00000100
     printf("AND = %d\n", z);
 
-    z = x | y;
+    z = x | y;       //00001110
     printf("OR  = %d\n", z);
 
-    z = x ^ y;
+    z = x ^ y;       //00001010
     printf("XOR = %d\n", z);
 
     //add bitshifts 
-    z = x << 1;
-    printf("bitshift right x = %d\n", z);
+    z = x << 1;      //00001100
+    printf("bitshift left x = %d\n", z);
 
-    z = x >> 1;
-    printf("bitshift left x = %d", z);
+    z = x >> 1;      //00000011
+    printf("bitshift right x = %d", z);
 
     return 0;
 }
