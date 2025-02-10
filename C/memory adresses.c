@@ -7,15 +7,16 @@ int main(){
 
     char a = 'x';
     char b = 'y';
-    char c = 'z';
+    char c[] = "zam";
 
     printf("a = %d bytes\n", sizeof(a));
     printf("b = %d bytes\n", sizeof(b));
     printf("c = %d bytes\n\n", sizeof(c));
 
+    //pointers are stored in hexadecimal values
     printf("&a = %p\n", &a);
     printf("&b = %p\n", &b);
-    printf("&c = %p\n", &c);
+    printf("&c = %p\n", c);
 
     return 0; 
 }
