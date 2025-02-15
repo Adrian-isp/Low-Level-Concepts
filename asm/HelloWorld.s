@@ -9,6 +9,7 @@
 	.def	main;	.scl	2;	.type	32;	.endef
 	.seh_proc	main
 main:
+	# first assembly program
 	pushq	%rbp
 	.seh_pushreg	%rbp
 	movq	%rsp, %rbp
