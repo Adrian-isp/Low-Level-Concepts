@@ -5,13 +5,13 @@ int main() {
         "w" = writing
         "a" = adding
      */
-    FILE *pf = fopen("names.txt", "w");
+    FILE *pF = fopen("names.txt", "w");
 
-    fprintf(pf, "Doubya\n");
-    fprintf(pf, "Obamna\n");
-    fprintf(pf, "GGTrump\n");
+    fprintf(pF, "Doubya\n");
+    fprintf(pF, "Obamna\n");
+    fprintf(pF, "GGTrump\n");
 
-    fclose(pf);
+    fclose(pF);
 
     return 0;
 }
