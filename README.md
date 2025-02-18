@@ -12,6 +12,8 @@ loops and functions)*
 I find it useful to have a remote respository of concepts that I can reference
 and also track my progress.
 
+created on the 16th of February 2025
+
 ## Updates
 
 #### 18th of February:
@@ -20,21 +22,17 @@ More about C:
 - how pointers and arrays relate
 - pointer arithmetic
 - header files
+- make files automating gcc scripts
 
-### Learning about computers & assembly language
-#### February 2025
+I had to mess with the gcc compiler since I don't use visual studio, 
+but learned more this way and it was worth it
+
+### Computers & assembly language
+#### 15th & 16th of February 2025
 
 As I wanted to understand computers I tried to learn about computer architecture
 from the ground up just to get an idea of how things work. I went through the
 [Crash Course Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=lNaGR6sSJz-Innin) series, which led me to assembly.
-
-I now know a bit more about:
-
-- how transistors and logic gates scale to form CPUs
-- how RAM works
-- binary data
-- the role of the operating system in managing device storage
-- directories and how files are stored
 
 I used **GCC** to compile some simple C and C++ files into assembly. 
 I found trying to understand every instruction to be quite a hassle, 
@@ -49,7 +47,7 @@ at least learned quite a bit about the cpu and how programs operate:
 - roughly how C can map to assembly and cpu instructions
 
 ### C
-#### January-February 2025
+#### 4th of February
 
 I decided it would be better to go lower level and start learning
 the C language, as it is used in so many domains as well as products
@@ -63,6 +61,3 @@ which taught me the basics of:
 - Strings
 - Enums
 - Typedef
-- Bitwise operators
-- Memory addresses and pointers
-- Reading and writing files
