@@ -12,7 +12,8 @@ loops and functions)*
 I find it useful to have a remote respository of concepts that I can reference
 and also track my progress.
 
-created on the 16th of February 2025
+created on the 4th of February 2025,
+first log on the 16th of February
 
 ## Updates
 
