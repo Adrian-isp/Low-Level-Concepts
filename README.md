@@ -12,27 +12,17 @@ loops and functions)*
 I find it useful to have a remote respository of concepts that I can reference
 and also track my progress.
 
-## C
-### January-February 2025
+## Updates
 
-I decided it would be better to go lower level and start learning
-the C language, as it is used in so many domains as well as products
-we use daily, such as embedded systems, operating systems and even
-interpreters for other languages like Python.
+#### 18th of February:
+More about C:
 
-I followed a [C tutorial video](https://youtu.be/87SH2Cn0s9A?si=LxIadvo_bsFoAonx)
-which taught me the basics of:
-- Input/output in C
-- Data types
-- Strings
-- Enums
-- Typedef
-- Bitwise operators
-- Memory addresses and pointers
-- Reading and writing files
+- how pointers and arrays relate
+- pointer arithmetic
+- header files
 
-## Learning about computers & assembly language
-### February 2025
+### Learning about computers & assembly language
+#### February 2025
 
 As I wanted to understand computers I tried to learn about computer architecture
 from the ground up just to get an idea of how things work. I went through the
@@ -57,3 +47,22 @@ at least learned quite a bit about the cpu and how programs operate:
 - what the stack is
 - how conditionals, loops and functions use jump instructions
 - roughly how C can map to assembly and cpu instructions
+
+### C
+#### January-February 2025
+
+I decided it would be better to go lower level and start learning
+the C language, as it is used in so many domains as well as products
+we use daily, such as embedded systems, operating systems and even
+interpreters for other languages like Python.
+
+I followed a [C tutorial video](https://youtu.be/87SH2Cn0s9A?si=LxIadvo_bsFoAonx)
+which taught me the basics of:
+- Input/output in C
+- Data types
+- Strings
+- Enums
+- Typedef
+- Bitwise operators
+- Memory addresses and pointers
+- Reading and writing files
