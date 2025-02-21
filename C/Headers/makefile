@@ -1,5 +1,6 @@
 # my first make file!!!
 CC = gcc
+#-I include will check the /include directory for header files
 CFLAGS = -Iinclude
 SRC = main.c src/prime.c 
 OUT = program
