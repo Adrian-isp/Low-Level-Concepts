@@ -17,6 +17,11 @@ first log on the 16th of February
 
 ## Updates
 
+#### 1st of March:
+
+- I finally managed to use cmake to link two cpp files using headers!!!
+- Recently been focusing on small ASCII graphics projects
+
 #### 18th of February:
 More about C:
 

@@ -1,0 +1,9 @@
+# IT finally works!!!!!
+# I can link files automatically!!!
+# VS code now works as an IDE and I'm glad it's easier to use
+
+cmake_minimum_required(VERSION 3.10.0)
+
+project(cmakeproject VERSION 0.1.0 LANGUAGES C)
+
+add_executable(cmakeproject main.c src/arrayFunctions.c include/arrayFunc.h)
