@@ -1,5 +1,5 @@
 # Learning Systems Programming Languages
-## Notes of concepts in **asm, C and C++** as I learn how to program
+## Notes of concepts in **C and C++** as I learn how to program
 
 I made this repository in January 2025. Initially I just wanted to store some
 C++ programming ideas, but eventually I embarked on a journey to dimistify how my
@@ -16,6 +16,10 @@ created on the 4th of February 2025,
 first log on the 16th of February
 
 ## Updates
+
+#### 4th of March:
+- Manual memory allocation in C++
+- Classes in C++
 
 #### 1st of March:
 
