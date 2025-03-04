@@ -1,29 +1,27 @@
-# Learning Systems Programming Languages
-## Notes of concepts in **C and C++** as I learn how to program
+# Learning C and C++
 
-I made this repository in January 2025. Initially I just wanted to store some
-C++ programming ideas, but eventually I embarked on a journey to dimistify how my
-computer worked.
+I made this repository in January 2025 to store some C++ 
+programming ideas, but eventually I started a journey to deepen my 
+understanding of how computers and software work.
 
 I started taking notes while learning the **C** language, already knowing
-some basic programming in **C++** *(that is i/o, arrays, conditionals, 
-loops and functions)* 
+the basics of **C++** *(that is: i/o, arrays, conditionals, loops and functions)* 
 
 I find it useful to have a remote respository of concepts that I can reference
 and also track my progress.
 
-created on the 4th of February 2025,
-first log on the 16th of February
+*created on the 4th of February 2025,
+first log on the 16th of February*
 
 ## Updates
 
 #### 4th of March:
-- Manual memory allocation in C++
-- Classes in C++
+- Manual memory allocation in C++ (new/delete)
+- basics of classes in C++
 
 #### 1st of March:
 
-- I finally managed to use cmake to link two cpp files using headers!!!
+- Managed to use cmake to link two cpp files using headers!
 - Recently been focusing on small ASCII graphics projects
 
 #### 18th of February:
@@ -38,7 +36,7 @@ I had to mess with the gcc compiler since I don't use visual studio,
 but learned more this way and it was worth it
 
 ### Computers & assembly language
-#### 15th & 16th of February 2025
+#### 15th-16th of February 2025
 
 As I wanted to understand computers I tried to learn about computer architecture
 from the ground up just to get an idea of how things work. I went through the
