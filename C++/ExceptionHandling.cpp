@@ -36,7 +36,7 @@ int main() {
     // std::cerr gives out the error 
     // message in the console
     catch(const char* message) {
-        std::cout << "Error message: " << message << '\n';
+        std::cerr << "Error message: " << message << '\n';
     }
 
     return 0;
