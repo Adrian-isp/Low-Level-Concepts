@@ -15,13 +15,12 @@ first log on the 16th of February*
 
 ## Updates
 
-#### 10th of March:
-- Constructors
-- Exception handling keywords
-
-#### 4th of March:
-- Manual memory allocation in C++ (new/delete)
-- basics of classes in C++
+C++
+- Namespaces - Mar-11
+- Constructors - Mar-10
+- Exception handling keywords - Mar-10
+- Manual memory allocation(new/delete) - Mar-04
+- Classes - Mar-04
 
 #### 1st of March:
 
