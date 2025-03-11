@@ -15,7 +15,7 @@ first log on the 16th of February*
 
 ## Updates
 
-C++
+#### C++
 - Namespaces - Mar-11
 - Constructors - Mar-10
 - Exception handling keywords - Mar-10
@@ -24,7 +24,7 @@ C++
 
 #### 1st of March:
 
-- Managed to use cmake to link two cpp files using headers!
+- Managed to use cmake to link two c files using headers!
 - Recently been focusing on small ASCII graphics projects
 
 #### 18th of February:
