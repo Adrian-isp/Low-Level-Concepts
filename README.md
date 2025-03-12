@@ -16,6 +16,7 @@ first log on the 16th of February*
 ## Updates
 
 #### C++
+- Iterators - Mar-12
 - Namespaces - Mar-11
 - Constructors - Mar-10
 - Exception handling keywords - Mar-10
