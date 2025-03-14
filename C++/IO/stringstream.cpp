@@ -27,6 +27,11 @@ int main() {
     std::cout << "size of intager: " << sizeof(num)
               << '\n';
 
+    // clear and reset stringstream
+    ss.str("");
+    ss.clear();
+
+
     // Read CSV data with custom delimiters:
     std::string input = "Adrian, 21, BigBoss";
     std::stringstream sts(input);
