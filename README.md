@@ -16,6 +16,8 @@ first log on the 16th of February*
 ## Updates
 
 #### C++
+- Templates - Mar-15
+- Stringstream - Mar-14
 - Iterators - Mar-12
 - Namespaces - Mar-11
 - Constructors - Mar-10
