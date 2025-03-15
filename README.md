@@ -16,6 +16,7 @@ first log on the 16th of February*
 ## Updates
 
 #### C++
+- Algorithm STL - Mar-15
 - Templates - Mar-15
 - Stringstream - Mar-14
 - Iterators - Mar-12
