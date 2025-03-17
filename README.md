@@ -26,6 +26,11 @@ first log on the 16th of February*
 - Manual memory allocation(new/delete) - Mar-04
 - Classes - Mar-04
 
+#### C
+- Function pointers - Mar-17
+- Dynamic memory - Mar-17
+
+
 #### 1st of March:
 
 - Managed to use cmake to link two c files using headers!
