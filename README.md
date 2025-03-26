@@ -16,6 +16,9 @@ first log on the 16th of February*
 ## Updates
 
 #### C++
+[reference: cppreference.com](https://en.cppreference.com)  
+[tutorial: cplusplus.com](https://cplusplus.com/doc/tutorial)
+
 - Algorithm STL - Mar-15
 - Templates - Mar-15
 - Stringstream - Mar-14
