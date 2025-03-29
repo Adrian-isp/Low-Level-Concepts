@@ -31,6 +31,7 @@ OOP:
 - Classes - Mar-04
 
 Memory:
+- Smart pointers unique_ptr, shared_ptr, weak_ptr - Mar-29
 - Manual memory allocation ***new/delete*** - Mar-04
 
 #### C
