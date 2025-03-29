@@ -15,7 +15,7 @@ first log on the 16th of February*
 
 ## Updates
 
-#### C++
+### C++
 [reference: cppreference.com](https://en.cppreference.com)  
 [tutorial: cplusplus.com](https://cplusplus.com/doc/tutorial)
 
@@ -24,10 +24,14 @@ first log on the 16th of February*
 - Stringstream - Mar-14
 - Iterators - Mar-12
 - Namespaces - Mar-11
-- Constructors - Mar-10
 - Exception handling keywords - Mar-10
-- Manual memory allocation(new/delete) - Mar-04
+
+OOP: 
+- Constructors - Mar-10
 - Classes - Mar-04
+
+Memory:
+- Manual memory allocation ***new/delete*** - Mar-04
 
 #### C
 - Function pointers - Mar-17

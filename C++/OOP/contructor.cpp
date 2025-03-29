@@ -12,6 +12,14 @@ public:
     std::string model;
     int year;
 
+    // constructors enable initialising the class values
+    Car() {
+        brand = "none";
+        model = "none";
+        year = 0;
+    }
+    // overloading enables setting initial values according 
+    // what we enter
     Car(std::string brand, std::string model, int year) {
         std::cout << "Car object created\n";
         this->brand = brand;
@@ -26,9 +34,14 @@ public:
 };
 
 int main() {
+    // no function call needed for initialisation
+    Car car;
     Car honda("Honda", "Civic", 2008);
 
     honda.accelerate();
+
+    std::cout << "Default brand: " << car.brand << '\n';
+    std::cout << "Instance brand: " << honda.brand << std::endl;
 
     return 0;
 }
