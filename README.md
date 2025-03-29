@@ -27,6 +27,7 @@ first log on the 16th of February*
 - Exception handling keywords - Mar-10
 
 OOP: 
+- Destructors - Mar-29
 - Constructors - Mar-10
 - Classes - Mar-04
 
