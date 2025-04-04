@@ -17,7 +17,7 @@ first log on the 16th of February*
 
 ### C++
 [reference: cppreference.com](https://en.cppreference.com)  
-[tutorial: cplusplus.com](https://cplusplus.com/doc/tutorial)
+[tutorial: learncpp.com](https://www.learncpp.com/)
 
 - Algorithm STL - Mar-15
 - Templates - Mar-15
